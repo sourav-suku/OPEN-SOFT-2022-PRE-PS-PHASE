@@ -14,5 +14,23 @@
 * [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 * [What is GitHub And How To Use It?](https://www.simplilearn.com/tutorials/git-tutorial/what-is-github)
 
+### Completed:
+
+* Vineet Anand
+* Dhruv Arya
+* Kaivalya Shah
+* Shobhit Narayan Tripathi
+* Dhruv Gahoi
+* Shivesh Chaturvedi
+* Tridev Rapeti
+* Katravath Vasu
+* mukundan
+* Ashok Chhetri
+* Sarthak Nikumbh
+* Anurag Raj
+* Bhosale Shivam Pravin
+* Pratush Tiwari
+* koushal kumar
+
 
 
